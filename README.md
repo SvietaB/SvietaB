@@ -3,7 +3,7 @@
 - 👀 I’m interested in develepoding absolutly new for me IT skills and switching to IT 
 - 🌱 I’m currently learning Java Script 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on my email bakhm.s@gmail.com, LinkedIn https://www.linkedin.com/feed/
+- 📫 How to reach me: email bakhm.s@gmail.com, LinkedIn https://www.linkedin.com/feed/
 
 <!---
 SvietaB/SvietaB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
